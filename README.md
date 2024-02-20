@@ -1,0 +1,3 @@
+#Problem Statement
+
+Developed a Python program to analyze and visualize the spread and impact of COVID-19 in India by fetching real-time data from reliable sources, cleaning and preprocessing it for analysis, performing statistical analysis, and generating visualizations like line charts, bar graphs, and heatmaps to illustrate trends of infection rates, recoveries, and fatalities across different states and regions. Additionally, evaluate the effectiveness of containment measures and develop predictive models to forecast future infection rates, while adhering to privacy regulations, implementing error handling mechanisms, optimizing code for efficiency, and maintaining modularity and documentation for scalability and future updates.
